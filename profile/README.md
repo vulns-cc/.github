@@ -1,4 +1,4 @@
-![Vulns.cc — Find the record. Trace the evidence.](https://raw.githubusercontent.com/vulns-cc/.github/main/profile/assets/banner.png)
+![Vulns.cc — Find the record. Trace the evidence.](https://raw.githubusercontent.com/vulns-cc/.github/main/profile/assets/banner-v2.png)
 
 # Find the record. Trace the evidence.
 

@@ -1,10 +1,12 @@
 # Vulns.cc organization profile
 
-- `profile/README.md` — public profile.
-- `profile/assets/avatar.png` — organization avatar.
-- `profile/assets/banner.png` — profile banner.
-- Matching SVGs and a transparent logo are included.
+Public introduction: `profile/README.md`. Current artwork:
 
-Artwork reuses the project's existing selected Geometric V vector from `Vulns/assets/brand/exports/favicon.svg`. The near-white, vermilion, and charcoal palette and banner headline follow the live website at https://vulns.cc. No AI redraw of the existing logo was used.
+- `profile/assets/avatar-v2.png` and `.svg` — corrected two-arm V, without the stray white edge.
+- `profile/assets/logo-v2.png` and `.svg` — transparent master mark.
+- `profile/assets/banner-v2.png` and `.svg` — abstract evidence-strata banner.
+- `profile/assets/banner-background-v2.png` — generated background.
 
-Upload the avatar separately in GitHub organization settings.
+The exact corrected vector mark is reused across avatar and banner. Built-in image generation created the abstract charcoal planes, fine tracing contours, and restrained vermilion accents; typography and logo were composed from deterministic vector artwork. Earlier versions remain as historical assets.
+
+Upload the current avatar separately in organization settings.
